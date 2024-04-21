@@ -23,11 +23,11 @@ Estudante de Engenharia da Computação
 <div style="display: inline_block">
     <img align="center" alt="html5" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)">
     <img align="center" alt="html5" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)">
+    <img align="center" alt="html5" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white](https://scontent.xx.fbcdn.net/v/t1.15752-9/435970839_758518566422594_2329604427620069592_n.png?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=OhnHl0Va1R0Ab69hu5v&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_Q7cD1QFC3l8C1lqexpouv39W9jEEvh8zWkbMclDihnvG3mD4aw&oe=664BF966))">
     <p>
 </div>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lzgustavo13&hide_progress=true)
 
 
 ### Contato 📞
