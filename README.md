@@ -5,10 +5,6 @@ Luiz Gustavo - lgscss
 
 Estudante de Engenharia da Computação
 
-<div style="display: inline_block">
-    <img align="center" alt="html5" src="https://scontent.xx.fbcdn.net/v/t1.15752-9/436752827_312881161873585_5270265677352077132_n.png?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=3ohSKas4Q9oAb7_-Nyi&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_Q7cD1QHImCXXczANcZGPGKKm3OkUoNufWuJFYhCvRTkksAG4ig&oe=664B8712">
-    <p>
-</div>
 
 ### Redes Sociais 😎
 
@@ -23,11 +19,7 @@ Estudante de Engenharia da Computação
 <div style="display: inline_block">
     <img align="center" alt="html5" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)">
     <img align="center" alt="html5" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)">
-    <img align="center" alt="html5" src="https://scontent.xx.fbcdn.net/v/t1.15752-9/436497864_459288773204264_603417594132616189_n.png?stp=cp0_dst-png&_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=vJYAmg1yvOwAb54GTiU&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_Q7cD1QGc2P3tTk-TrXR2bRC6QimKoXtFu-8LFoCYxaP4x3zPMQ&oe=664BCD02">
-    <p>
 </div>
-
-
 
 
 ### Contato 📞
