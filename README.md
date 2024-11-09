@@ -19,6 +19,11 @@ Estudante de Engenharia da Computação
 <div style="display: inline_block">
     <img align="center" alt="html5" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)">
     <img align="center" alt="html5" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)">
+    <img align="center" alt="html5" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+    <img align="center" alt="html5" src="https://antmicro.com/blog/images/risc-v-logo.png" width="150" height="auto">
+    <img align="center" alt="html5" src="https://banner2.cleanpng.com/20180526/oqt/avq6683ud.webp" width="80" height="40">
+    
+    
 </div>
 
 
