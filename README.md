@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  Recife, PE | 21 years old
+  Recife, PE | 22 years old
 </p>
 
 ---
